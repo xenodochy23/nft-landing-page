@@ -10,7 +10,7 @@
   --font-code: 'Roboto', monospace;
   --bg-color: #e6e9e6;
   --font-color: #ffffff;
-  --btn-bg-color: #ffffff;
+  --btn-bg-color: #black;
   --accent-color: #000000;
   --header-shadow: #000 0px 0px 5px;
 }
@@ -187,3 +187,6 @@ section {
   color: white;
 }
 
+.drop-text{
+  color: black;
+}
